@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "newer poast"
+title: "Hi All!"
 date: 2000-01-01 10:18:46 +0000
 categories: jekyll update
 ---
 
-this is a newer post from the future
+My name is A
